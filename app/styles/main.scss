@@ -1,0 +1,17 @@
+$icon-font-path: "/bower_components/sass-bootstrap/fonts/";
+
+@import 'sass-bootstrap/lib/bootstrap';
+
+body {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.games {
+  padding-bottom: 20px;
+
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+}
